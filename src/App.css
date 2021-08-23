@@ -54,3 +54,19 @@ body{
   height: 50px;
   width: 50px;
 }
+
+.wb{
+  
+  background-color:  #7502D9 !important;
+
+  border: none;
+  color: white;
+  padding: 15px 32px;
+
+}
+
+.white{
+  text-align: center;
+  align-self: center;
+  margin-bottom: 5rem;
+}

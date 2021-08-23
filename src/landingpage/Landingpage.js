@@ -37,7 +37,10 @@ export default function Landingpage() {
               <a className="nav-item nav-link nav-font" href="#product">
                 Products
               </a>
-              <a className="nav-item nav-link nav-font" href="./">
+              <a
+                className="nav-item nav-link nav-font"
+                href="https://drive.google.com/file/d/146sF4LyuAnOzTMTz57NK_UWgfLHF6afo/view?usp=sharing"
+              >
                 Whitepaper
               </a>
             </div>
@@ -54,13 +57,22 @@ export default function Landingpage() {
           </div>
         </div>
       </div>
-
+      <div className="white mt-5">
+        <button
+          type="button"
+          class="text-center wb mt-5"
+          href="https://drive.google.com/file/d/146sF4LyuAnOzTMTz57NK_UWgfLHF6afo/view?usp=sharing"
+        >
+          Check Whitepaper
+        </button>
+      </div>
       <div className="container-fluid">
         <div className="row ">
           <div className="col-10 text-center ml-5">
-          
-          <h1 className="display-1 product-color mt-5 product" id="product">Our Products</h1>
-          
+            <h1 className="display-1 product-color mt-5 product" id="product">
+              Our Products
+            </h1>
+
             <p className="mt-5">
               Our Products Kufter Coin is just what you’ve been looking for — a
               new, industry-leading token that gives users the chance
@@ -183,7 +195,9 @@ export default function Landingpage() {
         </div>
       </div>
       <div className="footer">
-        <h2 className="text-center pt-5 product-color">Follow our social media channels for frequent updates</h2>
+        <h2 className="text-center pt-5 product-color">
+          Follow our social media channels for frequent updates
+        </h2>
         <div className="d-flex flex-row mt-5">
           <ul>
             <li>
