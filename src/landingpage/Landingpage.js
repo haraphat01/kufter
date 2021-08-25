@@ -58,12 +58,10 @@ export default function Landingpage() {
         </div>
       </div>
       <div className="white mt-5">
-        <button
-          type="button"
-          class="text-center wb mt-5"
-          href="https://drive.google.com/file/d/146sF4LyuAnOzTMTz57NK_UWgfLHF6afo/view?usp=sharing"
-        >
-          Check Whitepaper
+        <button type="button" class="text-center wb mt-5">
+          <a href="https://drive.google.com/file/d/146sF4LyuAnOzTMTz57NK_UWgfLHF6afo/view?usp=sharing">
+            Check Whitepaper
+          </a>
         </button>
       </div>
       <div className="container-fluid">
@@ -198,7 +196,7 @@ export default function Landingpage() {
         <h2 className="text-center pt-5 product-color">
           Follow our social media channels for frequent updates
         </h2>
-        <div className="d-flex flex-row mt-5">
+        <div className="d-flex flex-row mt-5 ">
           <ul>
             <li>
               <a

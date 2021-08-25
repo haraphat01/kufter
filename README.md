@@ -1,73 +1,50 @@
-# Getting Started with Create React App
+Introduction to Kufter
+KFT is coming out to revolutionized the business side of the cryptocurrency sphere, with the mission to connect many people to the world of cryptocurrency, i.e having more businesses and services accepts cryptocurrency as a means of payment. KFT will be the native token to be used on all Kufter platforms and merchants. 
+KFT is a token built on the Binance smart chain, which has a total supply of 500,000,000, Kufter is deploying on the Binance smart chain because it's more easily accessible for crypto users due to its fast network and low transaction fee.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Personas
+Smith is a young man who's a crypto user, he has some little investment in crypto, smith has some bills he has to take care of daily, i.e, buying of airtime, data purchase, cable tv payment and many more, he wasn't able to do that, he needs to convert his token to fiat before that can be possible. He needs a platform where that can be possible for him, without going through the hurdles of fiat conversion.
 
-## Available Scripts
+Maria is a hardworking lady who's passionate about her job, she has some siblings she also fends for, Maria is trying her best to make sure she's financially stable, but she's not making enough income that could set her on that path. Inflation is also a worrying thing she needs to consider, as consumer products and other basic amenities keep increasing in prices. she needs something she could invest in to preserve her wealth.
 
-In the project directory, you can run:
+John is a young man from Africa, who just graduated from university, he has the dream to further his studies abroad, he's trying to work harder to raise his tuition fee by saving in his local currency, as much as he's trying his best to save, the foreign exchange is not in his favour due to devaluation of his local currency, John needs to find a solution to this by having to look for something to invest in.
 
-### `yarn start`
+DDD team is trying to build an awesome project, they've raised some money through presale and launched on DEX, they're trying to list on more CEX exchange. DDD team finds it difficult to list on these exchanges by having to wait for a longer time to hear from the exchange without certainty of whether the project will be listed or not. DDD team needs a platform where the listing process can be fast-tracked.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+Kufter Products
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+Kufter Exchange
+ Kufter exchange is a centralised exchange that aims to be the sought-for exchange for low caps coins, with little KYC and optimum security for the users assets. In as much we want to make listing accessible to founders as fast as possible, we would also protect our users from scam projects by verifying every project to be listed on our platforms, without having to wait for weeks. This would give these projects the opportunity to have had some trading volumes and also an edge to get listed on bigger exchanges.
+The minimum withdrawable amount will not be high on kufter exchange compared to other big exchanges,  and you can withdraw all of your funds, it's your money, not ours.
 
-### `yarn test`
+Kufterpay
+Kufterpay is a platform that's meant to take care of bills payment for people, kufterpay will issue out debit cards to users where they can be used for various online and offline payments. You don't need to convert your token to fiat before settle some recurrent expenditures, you can simply do all that on Kufterpay.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Kufter Merchants
+Kufter plans to partner will many big merchants from different countries to accept KFT as a means of payment.
 
-### `yarn build`
+Kufter Inc.
+Kufter Inc. will be a registered entity offering physical business and services to people, there is a lot of businesses in our pipelines to venture into, where Kufter token (KFT) will be the only means of payment on all these platforms. 
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Value
+Transparency
+Integrity
+Longevity
+Community Support
+Token Distribution
+Marketing: 15%
+Team: 10%
+Liquidity: 25%
+Platform: 30%
+Sale: 20%
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Live Roadmap
 
-### `yarn eject`
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+Conclusion
+Kufter (KFT) is a token with many use cases, we are not only going to the moon, but we'd also go beyond the moon. How can we help ourselves go beyond the moon? just buy KFT and HOLD.
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
 
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `yarn build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-# kufterwebsite
-# kufter
-# kufter

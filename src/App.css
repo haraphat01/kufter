@@ -65,8 +65,20 @@ body{
 
 }
 
-.white{
+.white {
   text-align: center;
   align-self: center;
   margin-bottom: 5rem;
+}
+
+.white a{
+  color: white;
+  
+  
+}
+.white :hover{
+  color: white;
+  list-style: none;
+  text-decoration: none;
+  
 }
